@@ -99,4 +99,7 @@ if select == 18:
 if select == 19:
     exit()
 
-#此菜单Made by WTP016 , 未经许可，禁止使用。
+# This menu made by WTP016, if you want to use this menu, you should send a Issue in Github Repository.
+# 这个菜单使用Python编写。如果你想使用，请在微博(懒懒的小叶榄仁-CHN)联系我或在Github Issue界面发布一个Issue。
+# This menu is open on Coding, Gitee, Github. Use MIT License.
+# 这个菜单在Coding, 码云Gitee, Github上开源。使用MIT开源协议。

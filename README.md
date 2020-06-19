@@ -16,3 +16,5 @@ But the old account can't use by 2FA. I restore my iPad in iTunes because the ja
 [Click here to see the same repository in Coding](https://theblockscn.coding.net/public/PoHaiFriend-FromGithub/PoHaiFriend-FromGithub/git/files)
 ("Coding" is a code hosting platform like Github. But Coding must pay. Github is free. But Coding have free version and I use free version.)
 
+I am Chinese, so the commit message all are Chinese.
+
