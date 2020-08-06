@@ -9,7 +9,7 @@ import win32con
 
 # while 判断 及 窗口。
 count = 3
-while count <= 0:
+while count >= 0:
     if Language == 'zh-CN':
         letter = input("Please type the letter")
         if letter == 'xzsx':
@@ -46,4 +46,5 @@ while count <= 0:
 # 此版本使用了 win32api 和 win32con 模块 并 加入了 次数统计 (while True , count 与 break)
 # 即将加入:
 # speech模块
+# 此版本已知BUG: 语言文本未更改。
 
