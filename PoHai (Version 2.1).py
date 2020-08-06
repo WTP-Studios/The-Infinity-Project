@@ -47,7 +47,5 @@ while count >= 0:
             print("The letter you entered is incorrect! Please enter again!")
             count = 3 - 1
 
-# 此版本使用了 win32api 和 win32con 模块 并 加入了 次数统计 (while True , count 与 break)
-# 即将加入:
-# speech模块
+# 此版本加入了 speech 模块。
 
