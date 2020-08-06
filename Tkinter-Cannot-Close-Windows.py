@@ -1,7 +1,6 @@
 from tkinter import *
 import tkinter.messagebox as messagebox
-from speech import *
-import speech.say as ssay
+import speech
 
 class Application(Frame):
     def __init__(self, master=None):
@@ -10,7 +9,7 @@ class Application(Frame):
         self.createWidgets()
 
     def createWidgets(self):
-        self.tiplabel = Label(self, text='"输入"小猪是屑",退出该程序')
+        self.tiplabel = Label(self, text='"输入"小猪是屑"或"小猪是个大屑",退出该程序')
         self.tiplabel.pack()
         self.valueInput = Entry(self)
         self.valueInput.pack()
@@ -20,9 +19,13 @@ class Application(Frame):
     def proof(self):
         keyvalue = self.valueInput.get()
 
-        if keyvalue == "我是猪":
+        if keyvalue == "小猪是屑":
             messagebox.showinfo('提示', '你说的特别对!')
-            ssay("你说的特别对!小猪真的是个屑!")
+            speech.say("你说的特别对!小猪真的是个屑!")
+            root.destroy()
+        elif keyvalue == "小猪是大屑!":
+            messagebox.showinfo('提示', '你说的特别对!')
+            speech.say("你说的特别对!小猪真的是个大屑!")
             root.destroy()
         else:
             messagebox.showerror('错误','我觉得你可以考虑一下')
@@ -31,7 +34,7 @@ def callback():
     messagebox.showwarning('警告','请回答问题!')
 
 root = Tk()
-rrot.geometry('300x150')
+root.geometry('300x150')
 app = Application().pack()
 root.protocol("WM_DELETE_WINDOW", callback)
 root.mainloop()
