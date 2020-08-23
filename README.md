@@ -1,20 +1,46 @@
-# 迫害朋友 (中文版说明)
-这个Github项目是用于WTP016 ([点击这里查看我的NameMC档案](https://zh-cn.namemc.com/profile/WTP016.2)) ~~迫害~~自己的朋友的。
-原来的项目(TheBlocks-CN/PoHaiFriends)因为2FA验证应用丢失而无法使用，因此新的Python文件+Java文件会在此处更新。  
 
-[点击此处查看旧项目](https://www.github.com/TheBlocks-CN/PoHaiFriends)  
+![The Infinity Project Logo](https://i.loli.net/2020/08/23/HG6ESlRjQsA9UV3.png)
 
-[点击此处查看Coding上的项目](https://theblockscn.coding.net/public/PoHaiFriend-FromGithub/PoHaiFriend-FromGithub/git/files)
+# The Infinity Project
+
+[![](https://img.shields.io/github/issues/WTP-Studios/The-Infinity-Project?style=for-the-badge)](https://github.com/WTP-Studios/The-Infinity-Project/issues)[![](https://img.shields.io/github/stars/WTP-Studios/The-Infinity-Project?style=for-the-badge)](https://github.com/WTP-Studios/The-Infinity-Project)[![](https://img.shields.io/github/license/WTP-Studios/The-Infinity-Project?style=for-the-badge)](https://zh.wikipedia.org/zh-cn/MIT%E8%A8%B1%E5%8F%AF%E8%AD%89)[![](https://img.shields.io/github/downloads/wtp-studios/the-infinity-project/v0.0.1-Alpha/total?style=for-the-badge)](https://github.com/WTP-Studios/The-Infinity-Project/releases)[![](https://img.shields.io/github/repo-size/wtp-studios/the-infinity-project?style=for-the-badge)](https://github.com/WTP-Studios/The-Infinity-Project)[![](https://img.shields.io/github/last-commit/wtp-studios/the-infinity-project?style=for-the-badge)](https://github.com/WTP-Studios/The-Infinity-Project/commits/master)
 
 ***
-# A joke to friend (English Information)
 
-This github repository is WTP016(A Minecraft player,[click here to see my NameMC profile](https://www.namemc.com/profile/WTP016.2)) ~~Make a joke~~ to my friend.
-The same name's repository is my old repository [Click here to see the old repository](https://github.com/TheBlocks-CN/PoHaiFriends).
-But the old account can't use by 2FA. I restore my iPad in iTunes because the jailbreak tool let my iPad can't boot. So I restore my iPad and losing my 2FA app(Google Authencatior).
+This is WTP016's program project, named "The Infinity Project".
 
-[Click here to see the same repository in Coding](https://theblockscn.coding.net/public/PoHaiFriend-FromGithub/PoHaiFriend-FromGithub/git/files)
-("Coding" is a code hosting platform like Github. But Coding must pay. Github is free. But Coding have free version and I use free version.)
+***
 
-I am Chinese, so the commit message all are Chinese.
+# Contents
+
+- [The Infinity Project](#the-infinity-project)
+- [Contents](#contents)
+- [What's in it?](#whats-in-it)
+- [Demo](#demo)
+- [Contribute](#contribute)
+
+***
+
+# What's in it?
+
+[Back to top](#contents)
+
+There are python files(.py) and Java files (.java) in it!
+
+***
+
+# Demo
+
+[(Back to top)](#contents)
+
+There is a exe in release. That release build by pyinstaller. It language is Chinese(Simplified).
+
+***
+
+# Contribute
+
+[Back to top](#Contents)
+
+[![WTP016](https://avatars1.githubusercontent.com/u/66893541)](https://blog.wtp016.cn)
+                                          WTP016
 
